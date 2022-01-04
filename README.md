@@ -1,4 +1,4 @@
-##Olá, me chamo <strong>Aloísio<strong>, bem-vindo(a) ao meu perfil.
+<font size="5">---Olá, me chamo <strong>Aloísio<strong>, bem-vindo(a) ao meu perfil.</font>
 <br>-🤔 Conhecendo o mundo da programação
 <br>-📚 Estudando front-end
 <img align="justify" alt="Rafa-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
