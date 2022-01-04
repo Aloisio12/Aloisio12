@@ -1,6 +1,6 @@
-<h1>---Olá, me chamo <strong>Aloísio<strong>, bem-vindo(a) ao meu perfil.</h1>
-<br>-🤔 Conhecendo o mundo da programação
-<br>-📚 Estudando front-end
+Hello, I'm <b>Aloísio</b>, welcome to my profile.
+<br>-🤔 Getting to kwow the world of programming
+<br>-📚 Studying front-end
 <img align="justify" alt="Rafa-HTML" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="justify" alt="Rafa-CSS" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="justify" alt="Rafa-Js" height="25" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
