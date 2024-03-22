@@ -3,6 +3,7 @@ Hello, I'm <b>Aloísio</b>, welcome to my profile.
 <img align="center" alt="Aloi-Html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Aloi-Css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Aloi-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Aloi-Sass" height="30" width="35" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg">
 <img align="center" alt="Aloi-Bootstrap" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 <img align="center" alt="Aloi-ReactJS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="center" alt="Aloi-ViteJS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
