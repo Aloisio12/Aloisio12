@@ -8,6 +8,9 @@ Hello, I'm <b>Aloísio</b>, welcome to my profile.
 <img align="center" alt="Aloi-ReactJS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 <img align="center" alt="Aloi-ViteJS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
 <img align="center" alt="Aloi-NextJS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="Aloi-Git" height="25" width="35" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg">
+<img align="center" alt="Aloi-MySql" height="43" width="43" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original-wordmark.svg">
+
 <div> 
   <a href="https://link-tree-aloisio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aloísio-vitório-a557a4220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
