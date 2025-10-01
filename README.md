@@ -1,5 +1,5 @@
 Hello, I'm <b>Aloísio</b>, welcome to my profile.
-<br>-📚 Studying development front-end.
+<br>-📚 Loading...
 <img align="center" alt="Aloi-Html" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Aloi-Css" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Aloi-Js" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
